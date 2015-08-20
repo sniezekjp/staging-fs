@@ -1,0 +1,88 @@
+/*Common CSS*/
+.rows .vc_span1 { width: 8.333333%; }
+.rows .vc_span2 { width: 16.666666%; }
+.rows .vc_span3 { width: 25%; }
+.rows .vc_span4 { width: 33.333333%; }
+.rows .vc_span5 { width: 41.666666%; }
+.rows .vc_span6 { width: 50%; }
+.rows .vc_span7 { width: 58.333333%; }
+.rows .vc_span8 { width: 66.6666666%; }
+.rows .vc_span9 { width: 75%; }
+.rows .vc_span10 { width: 83.333333%; }
+.rows .vc_span11 { width: 91.666666%; }
+.rows .vc_span12 { width: 100%; }
+
+
+
+
+/*Common For Max 960*/
+@media only screen and (max-width: 1199px) {
+
+	.rows .vc_span3 { width: 24.99%; }
+	.rows .vc_span4 { width: 33.31%; }
+	.rows .vc_span6 { width: 50%; }
+
+}
+
+
+
+
+/*Common For Max 768*/
+@media only screen and (max-width: 959px) {
+
+	.rows .vc_span3 { width: 24.9%; }
+	.rows .vc_span4 { width: 33%; }
+	.rows .vc_span6 { width: 49.5%; }
+
+}
+
+
+
+
+/*Common For Max 480*/
+@media only screen and (max-width: 767px) {
+
+	.wpb_row .wpb_column {
+		margin-bottom: 40px;
+	}
+
+	.wpb_row .wpb_column:last-child {
+		margin-bottom: 0;
+	}
+
+}
+
+
+
+/*Common For Max 320*/
+@media only screen and (max-width: 479px) {
+
+	.rows .vc_span1,
+	.rows .vc_span2,
+	.rows .vc_span3,
+	.rows .vc_span4,
+	.rows .vc_span5,
+	.rows .vc_span6,
+	.rows .vc_span7,
+	.rows .vc_span8,
+	.rows .vc_span9,
+	.rows .vc_span10,
+	.rows .vc_span11,
+	.rows .vc_span12 { width: 100%; }
+
+}
+
+
+
+
+/*480*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+	.rows .vc_span2,
+	.rows .vc_span3,
+	.rows .vc_span4,
+	.rows .vc_span6,
+	.rows .vc_span8,
+	.rows .vc_span9 { width: 50%; }
+
+}

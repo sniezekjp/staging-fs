@@ -1,0 +1,3 @@
+js_composer/js_composer.php
+js_composer/composer/lib/abstract.php line: 54
+js_composer/composer/settings/settings.php lines: 28-30

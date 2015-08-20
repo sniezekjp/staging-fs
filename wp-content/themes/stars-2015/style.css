@@ -1,0 +1,18 @@
+/*
+ Theme Name:   Fairfax Stars 2015
+ Theme URI:    http://jps26.com
+ Description:  Fairfax Stars 2015 Theme
+ Author:       JP
+ Template:     twentyfifteen
+ Version:      1.0.0
+ Text Domain:  fairfax-stars
+*/
+
+.post-thumbnail img {
+    width: 100%;
+    height: auto;
+}
+
+.widget a {
+    color: #8f2628;
+}

@@ -1,0 +1,14 @@
+.site-logo #logo {
+    text-align: left;
+    float: left;
+}
+
+.site-logo #logo img {
+    max-width: 170px;
+    width: 100%;
+}
+
+.site-logo .gey {
+    float:right;
+    width: 105px;
+}

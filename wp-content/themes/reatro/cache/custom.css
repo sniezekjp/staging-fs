@@ -5,7 +5,7 @@
 }
 body,
 button, input, select, textarea { 
-	font-family: 'Open Sans', Arial, Helvetica, serif, sans-serif;
+	font-family: 'Arvo', Arial, Helvetica, serif, sans-serif;
 	font-size: 13px;
 	font-size: 1.3rem;
 }
@@ -26,7 +26,7 @@ button, input, select, textarea {
 }
 #top-menu ul li ul li a,
 .responsive-menu ul li ul li a {
-	font-family: 'Open Sans', Arial, Helvetica, serif, sans-serif;
+	font-family: 'Arvo', Arial, Helvetica, serif, sans-serif;
 	font-size: 13px;
 	font-size: 1.3rem;
 	font-weight: normal;
